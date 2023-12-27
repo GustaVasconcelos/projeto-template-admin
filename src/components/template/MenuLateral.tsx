@@ -1,4 +1,4 @@
-import useAuth from "@/data/hook/useAuth";
+import useAuth from "../../data/hook/useAuth";
 import { IconeAjustes, IconeCasa, IconeLogout, IconeSino } from "../icons";
 import Logo from "./Logo";
 import MenuItem from "./MenuItem";

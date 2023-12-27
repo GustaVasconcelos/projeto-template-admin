@@ -1,6 +1,6 @@
 import Image from "next/image"
 import loading from '../../../public/images/loading.gif'
-import useAuth from "@/data/hook/useAuth"
+import useAuth from "../../data/hook/useAuth"
 import Router from "next/router"
 import Head from "next/head"
 
