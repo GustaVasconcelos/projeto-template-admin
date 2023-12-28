@@ -19,4 +19,3 @@ Este projeto é um template administrativo desenvolvido como uma oportunidade de
 - `FIREBASE_API_KEY`: Sua API Key do Firebase
 - `FIREBASE_AUTH_DOMAIN`: Seu domínio de autenticação do Firebase
 - `FIREBASE_PROJECT_ID`: ID do seu projeto no Firebase
-- Outras variáveis relacionadas ao Firebase conforme necessário.
